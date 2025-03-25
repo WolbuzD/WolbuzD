@@ -2,7 +2,7 @@
 
 **`Digital Architect (Software Engineer/AI Video Creator)`**
 <div style="text-align: right;">
-  <img alt="Coding" width="600" height="auto" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img alt="Coding" width="400" height="auto" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning to finalizing with artistic touches. I share this content on my YouTube channel, "NextGen AI {Unlocked}," where I create tutorials on using AI tools to craft consistent characters, animate them, and produce short movies. I also create podcasts exploring the future of AI and creativity.
