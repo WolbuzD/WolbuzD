@@ -39,15 +39,8 @@ I'm an indie full-stack developer and content creator building my version of the
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Create Consistent characters in Canva | Animation with AI (Step-by-Step Tutorial)](https://ytcards.demolab.com/?id=XJ5a7ZSVAJs&title=Create+Consistent+characters+in+Canva+%7C+Animation+with+AI+(Step-by-Step+Tutorial)&lang=en&timestamp=1738731600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=853)](https://www.youtube.com/watch?v=XJ5a7ZSVAJs)
 [![Mastering Consistent Characters in Leonardo AI (Step-by-Step Tutorial) || And Make up to $57,000/year](https://ytcards.demolab.com/?id=Yn4_qjVET5A&title=Mastering+Consistent+Characters+in+Leonardo+AI+(Step-by-Step+Tutorial)+%7C%7C+And+Make+up+to+%2457%2C000%2Fyear&lang=en&timestamp=1738731600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1655)](https://www.youtube.com/watch?v=Yn4_qjVET5A)
-
-[![The Warrior](https://ytcards.demolab.com/?id=neADwZDS8mc&title=The+Warrior&lang=en&timestamp=1738558800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=116)](https://www.youtube.com/watch?v=neADwZDS8mc)
-
-[![Building My DREAM Home Office Ep. 1 // It's Just Sticks Right Now](https://ytcards.demolab.com/?id=T1hWCaC_N0Y&title=Building+My+DREAM+Home+Office+Ep.+1+%2F%2F+It%27s+Just+Sticks+Right+Now&lang=en&timestamp=1741521629&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=426 "Building My DREAM Home Office Ep. 1 // It's Just Sticks Right Now")](https://www.youtube.com/watch?v=T1hWCaC_N0Y)
-[![I finally got access to Claude Code... i'm not a fan](https://ytcards.demolab.com/?id=W13MloZg03Y&title=I+finally+got+access+to+Claude+Code...+i%27m+not+a+fan&lang=en&timestamp=1741356038&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1349 "I finally got access to Claude Code... i'm not a fan")](https://www.youtube.com/watch?v=W13MloZg03Y)
-[![Rust is Killing C++](https://ytcards.demolab.com/?id=ZQyrrMqLT2s&title=Rust+is+Killing+C%2B%2B&lang=en&timestamp=1741191302&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=364 "Rust is Killing C++")](https://www.youtube.com/watch?v=ZQyrrMqLT2s)
+[![The Warrior](https://ytcards.demolab.com/?id=neADwZDS8mc&title=The+Warrior&lang=en&timestamp=1738558800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=116)](https://www.youtube.com/watch?v=neADwZDS8mc)m/watch?v=ZQyrrMqLT2s)
 <!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
 #
 
