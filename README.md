@@ -1,7 +1,7 @@
 # 🏄‍♂️ Thierno Diallo
 
 **`Digital Architect (Software Engineer/AI Video Creator)`**
-<div style="text-align: center;">
+<div style="text-align: right;">
   <img alt="Coding" width="600" height="auto" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
