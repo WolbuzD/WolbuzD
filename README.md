@@ -39,7 +39,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Create Consistent characters in Canva | Animation with AI (Step-by-Step Tutorial)](https://ytcards.demolab.com/?id=XJ5a7ZSVAJs&title=Create+Consistent+characters+in+Canva+%7C+Animation+with+AI+(Step-by-Step+Tutorial)&lang=en&timestamp=1738731600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=853)](https://www.youtube.com/watch?v=XJ5a7ZSVAJs)
 [![Mastering Consistent Characters in Leonardo AI (Step-by-Step Tutorial) || And Make up to $57,000/year](https://ytcards.demolab.com/?id=Yn4_qjVET5A&title=Mastering+Consistent+Characters+in+Leonardo+AI+(Step-by-Step+Tutorial)+%7C%7C+And+Make+up+to+%2457%2C000%2Fyear&lang=en&timestamp=1738731600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1655)](https://www.youtube.com/watch?v=Yn4_qjVET5A)
-[![The Warrior](https://ytcards.demolab.com/?id=neADwZDS8mc&title=The+Warrior&lang=en&timestamp=1738558800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=116)](https://www.youtube.com/watch?v=neADwZDS8mc)m/watch?v=ZQyrrMqLT2s)
+[![The Warrior](https://ytcards.demolab.com/?id=neADwZDS8mc&title=The+Warrior&lang=en&timestamp=1738558800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=116)](https://www.youtube.com/watch?v=neADwZDS8mc)
 <!-- END YOUTUBE-CARDS -->
 
 #
