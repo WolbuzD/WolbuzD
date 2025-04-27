@@ -7,17 +7,29 @@
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning to finalizing with artistic touches. I share this content on my YouTube channel, "NextGen AI {Unlocked}," where I create tutorials on using AI tools to craft consistent characters, animate them, and produce short movies. I also create podcasts exploring the future of AI and creativity.
 
-   <p align="left">
-      <a href="https://www.youtube.com/@NextGenAIUnlocked-c5f?sub_confirmation=1">
+   <div align="center">
+
+<a href="https://www.youtube.com/@NextGenAIUnlocked-c5f?sub_confirmation=1">
    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCScGYMx4iySGDFDKvJnvWWA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
 </a>
-     <a href="https://www.youtube.com/@NextGenAIUnlocked-c5f">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCScGYMx4iySGDFDKvJnvWWA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/WolbuzD?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/WolbuzD?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/WolbuzD?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/WolbuzD?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+
+<a href="https://www.youtube.com/@NextGenAIUnlocked-c5f">
+   <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCScGYMx4iySGDFDKvJnvWWA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
+</a> 
+
+<a href="https://github.com/WolbuzD?tab=followers">
+   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/WolbuzD?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+</a>
+
+<a href="https://github.com/WolbuzD?tab=repositories&sort=stargazers">
+   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/WolbuzD?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+</a>
+
+<!-- Profile Views Badge -->
+<img alt="Profile Views" title="Profile Views" src="https://komarev.com/ghpvc/?username=WolbuzD&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
 
 ---
 
